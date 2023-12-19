@@ -1,0 +1,53 @@
+{
+  "pageDetails": {
+    "pageSize": 10,
+    "page": 1,
+    "totalRecordsCount": 1,
+    "totalPages": 1,
+    "sortedColumn": "activityDate",
+    "sortDirection": "DESC"
+  },
+  "result": [
+    {
+      "documentId": "67023445-d7fc-445f-985e-15b8337fcf8b",
+      "senderDetail": {
+        "name": "Philip Reynolds",
+        "emailAddress": "philip@contracthound.com",
+        "userId": "2e93e871-fb10-4ab3-82db-56e7146d592f"
+      },
+      "ccDetails": [],
+      "createdDate": 1702631599,
+      "activityDate": 1702631838,
+      "activityBy": "philip@contracthound.com",
+      "messageTitle": " API document title",
+      "status": "Completed",
+      "signerDetails": [
+        {
+          "signerName": "",
+          "signerRole": "Manager",
+          "signerEmail": "",
+          "phoneNumber": null,
+          "status": "NotCompleted",
+          "enableAccessCode": false,
+          "enableEmailOTP": false,
+          "imposeAuthentication": "None",
+          "deliveryMode": "Email",
+          "allowConfigureFields": false,
+          "userId": null,
+          "order": 0,
+          "signerType": "Signer",
+          "hostEmail": null,
+          "hostName": null,
+          "hostUserId": null,
+          "signType": "Single"
+        }
+      ],
+      "enableSigningOrder": false,
+      "templateName": "API template",
+      "templateDescription": "API template description",
+      "accessType": "Edit",
+      "accessTid": "",
+      "isTemplate": false
+    }
+  ]
+}
